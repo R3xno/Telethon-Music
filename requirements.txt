@@ -10,3 +10,5 @@ speedtest-cli
 numpy
 flask
 flask_restful
+python-dotenv
+
